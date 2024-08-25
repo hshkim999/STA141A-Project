@@ -1,2 +1,2 @@
-# STA141-Project
+# STA141A-Project
 Please download html file for full project documentation.
